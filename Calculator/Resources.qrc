@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>icons/clogo.svg</file>
+    </qresource>
+</RCC>
